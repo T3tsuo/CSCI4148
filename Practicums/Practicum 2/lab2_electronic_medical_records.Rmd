@@ -15,7 +15,6 @@ library(clinspacy)
 library(topicmodels)
 library('reshape2')
 library(stringr)
-
 ```
 
 This practical is based on exploratory data analysis, named entity recognition, and topic modelling of unstructured medical note free-text data derived from electronic medical records (EMR). Real EMR data is very difficult to access without a specific need/request so this data set is derived from [medical transcription](https://mtsamples.com/) data instead. I'll also caveat that the options of natural language processing (NLP) in R are far inferior to those available in Python.
