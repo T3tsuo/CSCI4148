@@ -420,7 +420,7 @@ specialty_gamma %>%
   ggplot2::labs(x = "topic", y = expression(gamma))
 ```
 
-Tthe 3 topic LDA terms still turn up. And it still seems that surgery is mostly about a single topic.
+The 3 topic LDA terms still turn up. And it still seems that surgery is mostly about a single topic.
 
 ## Credits
 
